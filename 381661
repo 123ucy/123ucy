@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>VIDEO</title>
+    </head>
+    <body>
+        <h1>Adding videos</h1>
+        <video src="videos/chinenye1.mp4" width="500" height="500" controls>
+        </video>
+        <br>
+        <br>
+        <br>
+        <video src="videos/chinenye2.mp4" width="500" height="500" controls>
+        </video>
+        <br>
+        <br>
+        <br>
+        <video src="videos/song1.mp4" width="500" height="500" controls>
+        </video>
+    </body>
+</html>

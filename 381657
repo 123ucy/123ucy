@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>About us</title>
+    </head>
+    <body>
+        <h1><b>INTRODUCTION</b></h1>
+        <P>
+            <P><i>Video provides a powerful way to help you prove your point.</i></P><P> When you click Online Video, you can paste in the embed code for the video you want to add.</P>  
+        </P>
+        <h2>heading 2</h2>
+        <p>
+            <P><u>Video provides a powerful way to help you prove your point.</u></P><P> When you click Online Video, you can paste in the embed code for the video you want to add.</P>  
+        </p>
+        <h3>heading 3</h3>
+        <p>
+            <P>Video provides a powerful way to help you prove your point.</P><P> When you click Online Video, you can paste in the embed code for the video you want to add.</P>  
+    </P>
+    <h4>heading 4</h4>
+<p>
+         <P>Video provides a powerful way to help you prove your point.</P><P> When you click Online Video, you can paste in the embed code for the video you want to add.</P>  
+</P>
+<h5>heading 5</h5>
+<p>
+       <P>Video provides a powerful way to help you prove your point.</P><P> When you click Online Video, you can paste in the embed code for the video you want to add.</P>  
+        </P>
+<h6>heading 6</h6>
+<p>
+        <P>Video provides a powerful way to help you prove your point.</P><P> When you click Online Video, you can paste in the embed code for the video you want to add.</P>  
+        </P>
+
+    </body>
+    </html>

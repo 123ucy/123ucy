@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>FORMS</title>
+    </head>
+   <body>
+    <h1>FORM</h1>
+    <form method="post" action="save.html">
+        <label>first name</label>
+        <input type="text" name="fname" placeholder="first name" />
+        <br>
+        <br>
+        <label>last name</label>
+        <input type="text" name="sname" placeholder="last name" />
+        <br>
+        <br>
+          <label>phone number</label>
+          <br>
+          contry code<input="text" name="code" />
+          <input type="number" name="pheneno" placeholder="793912953" />
+        <br>
+        <br>
+        <label>email</label>
+        <input type="email" name="email" placeholder="info@kcau.ac.ke" />
+        <br>
+        <br>
+        <label>date of birth</label>
+        <input type="text" name="dob"/>
+        <br>
+        <br>
+        <label>whats your favourite color</label>
+        <input type="color" name="color" />
+        <br>
+        <br>
+        <input type="hidden" name="spy" value="wow they clicked it" />
+        <br>
+        <br> 
+        <br>
+        <label>input your password</label>
+        <input type="password" name="pass" />
+        <br>
+        <br>  
+        
+<label>gender</label>
+<br>
+  male<input type="radio" name="gender" value="male" checked />
+  female<input type="radio" name="gender" value="female" />
+  others<input type="radio" name="gender" value="others" />
+<br>
+<br>
+<label>presidencial preference</label>
+<br>
+ruto<input type="radio" name="presidency" value="ruto" checked />
+wajackoya<input type="radio" name="presidency" value="wajackoya" />
+raila<input type="radio" name="presidency" value="raila" />
+<br>
+<br>
+INTERNET APPLICATION PROGRAMMIG<input type="checkbox" name="IAP" value="IAP" checked/>
+C PROGRAMMING<input type="checkbox" name="CPROGRAMMING" value="CP" />
+JAVA PROGRAMMING<input type="checkbox" name="JAVAPROGRAMMING" value="JP"/>
+<br>
+<br>
+<label>select your course</label>
+<br>
+<select name="courses">
+    <option value="DBIT">DBIT</option>
+    <option value="DIT">DIT</option>
+    <option value="CBIT">CBIT</option>
+    <option value="CIT">CIT</option>
+</select>
+<br>
+<br>
+<br>
+<label>select multiple courses</label>
+<select name="courses">
+    <option value="DBIT">please select a course</option>
+    <option value="DBIT">DBIT</option>
+    <option value="DIT">DIT</option>
+    <option value="CBIT">CBIT</option>
+    <option value="CIT">CIT</option>
+</select>
+<br>
+<br>
+<input type="reset" value="reset/clear" name="reset" />
+<input type="submit" value="submit" name="submit" />
+<br>
+
+    </form>
+   </body>
+</html>

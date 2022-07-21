@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>list</title>
+    </head>
+    <body>
+        <h1><u><i>ORDERED LIST</i></u></h1>
+<ol>
+        <Li>chocolate</Li>
+        <li>cooking oil</li>
+        <li>baking powder</li>
+        <li>maize flour</li>
+        <li>sugar</li>
+        </ol>
+
+<h2>UNORDERED LIST</h2>
+
+<ul type="disc">
+    <li>coffe</li>
+    <li>breakfast</li>
+    <li>onions</li>
+    <li>tomatos</li>
+</ul>
+
+<ul type="square">
+    <li>milk</li>
+    <li>breakfast</li>
+    <li>onions</li>
+    <li>tomatos</li>
+</ul>
+
+
+<ul type="circle">
+    <li>coffe</li>
+    <li>tea leaves</li>
+    <li>drinking chocolate</li>
+    <li>rice</li>
+</ul>
+
+
+<h1>SUBSCRIPT & SUPSCRIPT</h1>
+<P>
+    Solve the following problem Log<sub>10</sub><sup>2</sup>
+</P>
+
+<p>
+   1. given that   2log<sub>2>(x+5)-log<sub>2</sub><sup>x</sup>=6
+    <br>
+    (a) Show that  x<sup>2</sup> -34x+255=0
+    <br>
+    (b) Hence,or otherwise,solve the equation 
+    2log<sub>2</sub>(x+15)-log<sub>2</sub><sup>x</sup>=6
+
+
+    
+</p>
+
+
+        </body>
+</html>
