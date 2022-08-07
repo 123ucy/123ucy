@@ -1,0 +1,17 @@
+<! DOCTYPE >
+<html >
+<head>
+<title >language</title >
+<h1>ordered list</h1>
+<oltype=. "1">
+<li>HTML hyper text markup language</li>
+<li>CSS cascading stylesheets</li>
+<li>Javascript </li>
+<li>j query</li>
+<li>ajax</li>
+<li>PHP</>
+1PHP 4.0
+2 PHP 5.0
+<li>mySQL dat.abase</li>
+<li>xml</li>
+</html>
